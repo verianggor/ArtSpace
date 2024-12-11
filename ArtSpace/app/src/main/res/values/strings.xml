@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Art Space</string>
+    <string name="arttitle1">the forest</string>
+    <string name="arttitle2">davinci art</string>
+    <string name="arttitle3">monalisa </string>
+    <string name="artist1">Veri Tri Anggoro</string>
+    <string name="artist2">Veri Tri Anggoro</string>
+    <string name="artist3">Veri Tri Anggoro</string>
+
+</resources>
